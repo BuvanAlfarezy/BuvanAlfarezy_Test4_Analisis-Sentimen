@@ -9,7 +9,7 @@
 Repository ini berisi tugas, proyek, dan catatan untuk mata kuliah **Analisis Big Data** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- [Analisis Sentimen Neural Network](https://colab.research.google.com/drive/18eiA2TObn28XoDpC3udcV-QayOop7VkA#scrollTo=ev6-Ibw126ko)
+- [Analisis Sentimen Neural Network](https://colab.research.google.com/github/BuvanAlfarezy/BuvanAlfarezy_Test4_Analisis-Sentimene/blob/main/BuvanAlfarezy_Test4_Analisis-Sentimen.ipynb)
 
 
 ## Visualisasi Streamlib
